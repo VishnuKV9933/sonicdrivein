@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.cont{
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+.top{
+    width: 100%;
+    height: 50px;
+    background-color: aquamarine;
+}
+.button1{
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: #e40046;
+    color:white;
+}
+#heading1{
+font-size: 70px;
+}
+.button2{
+    border: none;
+    height: 40px;
+    width: 150px;
+    border-radius: 50px;
+    background-color: #e40046;
+    color:white;
+}
+#box{
+    width: 20%;
+    height: 20%;
+    background-color: aqua;
+}
+.mid{
+    height: 4rem;
+    background-color: #e40046;
+   color: white;
+    align-items: center;
+}
+#button3{
+    border: none;
+    height: 40px;
+    width: 150px;
+    border-radius: 6px;
+    background-color: #e40046;
+    color:white;
+}
